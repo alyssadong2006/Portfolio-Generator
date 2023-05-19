@@ -1,0 +1,9 @@
+pytest
+pylint
+certifi
+charset-normalizer
+idna
+requests
+requests-mock
+six
+urllib3
